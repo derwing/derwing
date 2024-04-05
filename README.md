@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam](https://www.google.com/search?q=Derwing+Medina">「 Google Me 」</a>
     <br>
-    「 I am a FrontEnd Application Developer Web/Mobile from <b>Venezuela</b> <img src="https://cdn-icons-png.flaticon.com/128/15363/15363237.png?style="height=20px"" 」
+    「 I am a FrontEnd Application Developer Web/Mobile from <b>Venezuela 」</b> <img src="https://cdn-icons-png.flaticon.com/128/15363/15363237.png?style="height=20px"" 」
     <br>
     <br>
   </samp>
