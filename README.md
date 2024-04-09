@@ -63,4 +63,4 @@
 <br/>
 
 ## Code fragments
-&#9842;  [Code you can use / Código que puedes reutilizar](code_library/Angular)
+&#9842;  [Code you can use / Código que puedes reutilizar](code_library/README.md)
