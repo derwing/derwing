@@ -1,6 +1,6 @@
 # Code you can use in Angular
 
-## rating (test in v9)
+## Average Rating (tested in Angular V9)
 <p align="left">
 This code show a full, medium or half star base on the rating - When the average rating is receive as a float number.
 </p>
