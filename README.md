@@ -1,10 +1,9 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://derwing.com">Derwing Medina</a></b>
+                <b><a target="_blank" href="https://derwing-portfolio.netlify.app">Derwing Medina</a></b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -33,11 +32,10 @@
 <br />
 
 <!-- About Section -->
- # About me / Acerca de mi
- 
+
+# About me / Acerca de mi
+
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  ❤️ &emsp; I love startups, creating new projects and making new ideas a reality. / Me encantan los emprendimiento, crear nuevos proyectos y hacer realidad nuevas ideas <br/><br/>
  📧 &emsp; Reach me anytime: derwing.medina@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/derwing/derwing/issues)
@@ -46,6 +44,7 @@
 <br/>
 
 ## Use To Code / Uso para codificar:
+
 ![Flutter](https://img.shields.io/badge/Flutter-ADD8E6?style=for-the-badge&labelColor=black&logo=flutter&logoColor=ADD8E6)
 ![Dart](https://img.shields.io/badge/Dart-ADD8E6?style=for-the-badge&labelColor=black&logo=dart&logoColor=ADD8E6)
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&labelColor=black&logo=angular&logoColor=FF0000)
