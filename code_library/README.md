@@ -1,15 +1,21 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Aquí guardo fragmentos de código que me han tomado mucho tiempo hacer, o que a mi consideración solventan de manera optima un requerimiento y me gustaría volver a usar. Here I keep code fragments that have taken me a long time to make, or that in my opinion solve a requirement in an optimal way and that I would like to use again. 
                 <b><a target="_blank" href="https://derwing-portfolio.netlify.app">Derwing Medina</a></b>
         </samp>
 </h3>
+
+<!-- Agular -->
+
+# Angular (test in v9)
+
+<a href="code_library/Angular">Angular</a>
 
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam](https://www.google.com/search?q=Derwing+Medina">「 Google Me 」</a>
     <br>
-    「 I am a FrontEnd Application Developer Web/Mobile from <b>Venezuela 」</b> <img src="https://cdn-icons-png.flaticon.com/128/15363/15363237.png?style="height="20px" 」
+    「 I am a FrontEnd Application Developer Web/Mobile from <b>Venezuela 」</b> <img src="https://cdn-icons-png.flaticon.com/128/15363/15363237.png?style="height=20px"" 」
     <br>
     <br>
   </samp>
