@@ -36,9 +36,9 @@
 # About me / Acerca de mi
 
 <p>
- ❤️ &emsp; I love startups, creating new projects and making new ideas a reality. / Me encantan los emprendimiento, crear nuevos proyectos y hacer realidad nuevas ideas <br/><br/>
+ ❤️ &emsp; I love startups, creating new projects and making new ideas a reality. / Me encantan los emprendimiento, crear nuevos proyectos y hacer realidad nuevas ideas. <br/><br/>
  📧 &emsp; Reach me anytime: derwing.medina@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/derwing/derwing/issues)
+ 💬 &emsp; Ask me about anything <https://github.com/derwing/derwing/issues>.
 
 </p>
 <br/>
