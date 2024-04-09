@@ -62,3 +62,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
+## Code fragments
+&#9842;  [Code you can use / Código que puedes reutilizar](code_library/Angular)
