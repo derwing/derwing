@@ -9,7 +9,7 @@
 
 # Resources
 <p align="center">
-<a href="code_library/Angular">Angular</a>
+<a href="code_library/Angular/README.md">Angular</a>
 <a href="code_library/Flutter">Flutter</a>
 </p>
 
