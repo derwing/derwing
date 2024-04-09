@@ -42,7 +42,7 @@
 </p>
 <br/>
 
-## Use To Code / Uso para codificar:
+## Use to code / Uso para codificar:
 
 ![Flutter](https://img.shields.io/badge/Flutter-ADD8E6?style=for-the-badge&labelColor=black&logo=flutter&logoColor=ADD8E6)
 ![Dart](https://img.shields.io/badge/Dart-ADD8E6?style=for-the-badge&labelColor=black&logo=dart&logoColor=ADD8E6)
@@ -63,4 +63,4 @@
 <br/>
 
 ## Code fragments
-&#9842;  [Code you can use / Código que puedes reutilizar](code_library/README.md)
+&#9842;  [Code you can reuse / Código que puedes reutilizar](code_library/README.md)
