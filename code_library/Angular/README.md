@@ -1,20 +1,20 @@
-# Code you can use in Angular (test in v9)
+# Code you can use in Angular
 
-## rating
+## rating (test in v9)
 <p align="left">
 This code show a full, medium or half star base on the rating - When the average rating is receive as a float number.
 </p>
 
 ### HTML
-<code>
+```
     <div class="star-rating">
         <!-- Loop through each star based on the Product/Service average Rating -->
         <i *ngFor="let star of getStars(averageRating); let i = index" class="{{ star }}"></i>
     </div>
-</code>
+```
 
 ### TypeScript
-<code>
+```
   getStars(averageRating: number) {
     // Array to store the classes of stars
     const stars = [];
@@ -41,7 +41,7 @@ This code show a full, medium or half star base on the rating - When the average
     // Return the array of star classes
     return stars;
   }
-</code>
+```
 
 ### Result
 example averageRating = 2.8
