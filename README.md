@@ -39,8 +39,8 @@
  ❤️  &emsp; I love startups, creating new projects and making new ideas a reality. / Me encantan los emprendimiento, crear nuevos proyectos y hacer realidad nuevas ideas. <br/>
  📧 &emsp; Reach me anytime: derwing.medina@gmail.com<br/>
  💬 &emsp; <a href="https://github.com/derwing/derwing/issues">Ask me about anything.</a><br/>
- 🔍 &emsp; You can find me in the <a href="https://developers.google.com/certification/directory"> Google Certified Developers Directory.</a> / Puedes encontrarme en el <a href="https://developers.google.com/certification/directory">Directorio de Desarrolladores Certificados de Google.</a><br/>
- 🚀 &emsp; Always moving forward: [![roadmap.sh](https://roadmap.sh/card/tall/6668b45859bd70fae204bd23?variant=dark)](https://roadmap.sh)
+ 🚀 &emsp; Always moving forward: <a href="https://roadmap.sh/card/tall/6668b45859bd70fae204bd23?variant=dark"> roadmap.sh </a><br/>
+ 🔍 &emsp; You can find me in the <a href="https://developers.google.com/certification/directory"> Google Certified Developers Directory.</a> / Puedes encontrarme en el <a href="https://developers.google.com/certification/directory">Directorio de Desarrolladores Certificados de Google.</a>
         
 </p>
 <br/>
